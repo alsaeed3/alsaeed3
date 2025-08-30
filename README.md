@@ -38,8 +38,7 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/alisaeed3)  
-- 🐙 [GitHub](https://github.com/alsaeed3)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alisaeed3)
 - 📧 Email: alsaeed@student.42abudhabi.ae  
 
 ---
