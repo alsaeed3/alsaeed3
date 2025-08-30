@@ -6,9 +6,8 @@
 
 ## 🚀 About Me  
 - 🎓 **Software Engineering Diploma** – 42 Abu Dhabi (2025)  
-- 🎓 **B.Sc. Electrical Engineering (Instrumentation & Control)** – Ajman University (2022)  
-- 🌍 Bilingual: **Arabic & English**, born and raised in the UAE  
-- 🏆 Hackathon Competitor: 3rd place **CyberQ CTF 2024**, Top 10 in **Open Data Spark**, ADEO & WioBank challenges  
+- 🎓 **B.Sc. Electrical Engineering (Instrumentation & Control)** – Ajman University (2022)
+- 🏆 Hackathon Competitor: 3rd place **CyberQ CTF 2024**, Top 5 in **Open Data Spark**, ADEO & WioBank challenges  
 - 👨‍🏫 Tech Educator: Delivered **60+ AI, Python, 3D modeling & prompt engineering workshops** across UAE schools  
 
 ---
