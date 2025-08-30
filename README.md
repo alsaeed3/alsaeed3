@@ -24,7 +24,7 @@
 ## 📌 Selected Projects  
 - **[EntrEquipos](https://entrequipos.com)** – Full-stack **event & hackathon platform** with team/judge management & admin workflows. (React, Next.js, Tailwind, Supabase)  
 - **ft_transcendence** – AI real-time **web game** with predictive AI opponent and WebSocket-based backend. (Django, Docker, Nginx)  
-- **Parkit.ae** – Smart parking platform using **AI & predictive analytics**, integrated chatbot & secure booking. (Next.js, MongoDB, OpenAI, ArcGIS)  
+- **[Parkit.ae](https://parkit-ae.vercel.app/login)** – Smart parking platform using **AI & predictive analytics**, integrated chatbot & secure booking. (Next.js, MongoDB, OpenAI, ArcGIS)  
 - **AI Request Streamlining Tool** – NLP-powered request summarizer built in a hackathon, delivering real-time structured insights.  
 
 ---
