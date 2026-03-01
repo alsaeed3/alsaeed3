@@ -23,31 +23,31 @@
 
 ### 🧬 Digital Human Clone Dashboard
 **AI Architecture & Signal Processing**
-* [cite_start]Designed a "Brain-Ear-Mouth" architecture for cloning persona and speech patterns. [cite: 59, 60]
-* [cite_start]Implemented Faster-Whisper for transcription and optimized local inference using NVIDIA GPU passthrough in Docker. [cite: 60, 61]
+* Designed a "Brain-Ear-Mouth" architecture for cloning persona and speech patterns.
+* Implemented Faster-Whisper for transcription and optimized local inference using NVIDIA GPU passthrough in Docker.
 
 ### 🏥 Escoutly - AI Voice Assistant
 **Real-Time Interaction & Voice Processing**
-* [cite_start]Developed a WebRTC-powered AI assistant capable of fluid voice conversations and real-time guidance. [cite: 62, 63]
-* [cite_start]Integrated dynamic data visualization for real-time KPIs and investment insights. [cite: 64]
+* Developed a WebRTC-powered AI assistant capable of fluid voice conversations and real-time guidance.
+* Integrated dynamic data visualization for real-time KPIs and investment insights.
 
 ### 🅿️ Abu Dhabi SmartPark
 **Predictive Analytics & Smart City Solutions**
-* [cite_start]Built algorithms to analyze historical data and predict availability, reducing search times by 95%. [cite: 66, 67]
-* [cite_start]Integrated live occupancy tracking with ArcGIS for real-time trend visualization. [cite: 68]
+* Built algorithms to analyze historical data and predict availability, reducing search times by 95%.
+* Integrated live occupancy tracking with ArcGIS for real-time trend visualization.
 
 ---
 
 ## 🎯 Impact & Leadership  
 - 🧑‍🏫 **AI Instructor**: Led AI & Python bootcamps for 42 Abu Dhabi & ADEK (2024-2025).  
-- [cite_start]🏢 **Industry Experience**: Control industry exposure at **Beckhoff Automation**. [cite: 74]
+- 🏢 **Industry Experience**: Control industry exposure at **Beckhoff Automation**.
 - 🔐 **Research**: Actively exploring Post-Quantum Cryptography (Kyber, Dilithium) and Cybersecurity.  
 
 ---
 
 ## 📫 Let's Connect  
-- [cite_start]💼 [LinkedIn](https://www.linkedin.com/in/alisaeed3). [cite: 42]
-- [cite_start]📧 [alsaeed@student.42abudhabi.ae](mailto:alsaeed@student.42abudhabi.ae). [cite: 42]
+- 💼 [LinkedIn](https://www.linkedin.com/in/alisaeed3).
+- 📧 [alsaeed@student.42abudhabi.ae](mailto:alsaeed@student.42abudhabi.ae).
 
 ---
 
