@@ -34,7 +34,7 @@ I design and ship grounded, bilingual AI systems that connect **LLMs, RAG, vecto
 - 🧠 Exploring **agentic AI systems**, tool calling, context-window design, structured outputs, and reliable LLM orchestration.
 - 🧰 Bringing a systems background from **42 Abu Dhabi Common Core**, C/C++, networking, Docker, and full-stack engineering.
 - 🎓 BSc in **Electrical Engineering - Instrumentation & Control** from Ajman University, with a foundation in signals, sensors, control, and embedded systems.
-- 👨‍🏫 AI facilitator and curriculum designer with **2,500+ learners reached across 43+ sessions**.
+- 👨‍🏫 AI facilitator and curriculum designer with **3,000+ learners reached across 80+ sessions**.
 
 ---
 
@@ -51,17 +51,6 @@ I design and ship grounded, bilingual AI systems that connect **LLMs, RAG, vecto
 ---
 
 ## Featured Projects
-
-### Ask MOEI v2.0 - Grounded Bilingual Government Assistant
-
-> A citizen-facing AI service navigator built around official MOEI maritime-service knowledge.
-
-- Built a bilingual **English / Arabic** assistant that answers service questions from a controlled knowledge base.
-- Implemented **retrieval-augmented generation** so responses include the right documents, fees, and application links.
-- Added **intent detection**, smart routing, proactive next-step guidance, and fallback behavior for out-of-scope questions.
-- Engineered reliability around LLM API failure instead of letting the assistant hallucinate or silently break.
-
-**Stack:** `Python` · `OpenRouter LLM API` · `RAG` · `Bilingual NLP` · `Knowledge Base Retrieval`
 
 ### Hadir AI - Bilingual Medical Concierge
 
